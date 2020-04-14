@@ -7,7 +7,7 @@ let totalmagnets = 2;
 
 let cursor;
 let cursorDiameter = 50;
-let cursorQ = 100000;
+let cursorQ = 100;
 let stuck = false;
 
 let img;
